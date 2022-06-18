@@ -32,4 +32,4 @@ The Federal Housing Finance Agency compiles an index each year detailing the per
 ##### Zillow Housing Value Index (ZHVI) for Single-Family Homes
 Similarly, Zillow gives its best value estimates for single-family homes in an area. From this data I included the raw value estimates and derived a similar index to the HPI of percentage change.
 ##### State and CBSA Shapefiles
-Shapefiles for the 50 U.S. states and ~930 metropolitan and micropolitan areas, later converted to json files through a free online site for use in creating geographic visualizations.
+Shapefiles for the 50 U.S. states and ~940 metropolitan and micropolitan areas, later converted to json files through a free online site for use in creating geographic visualizations.
