@@ -6,14 +6,14 @@ The two datasets for this project detail a wide variety of characteristics for t
 ### Collection Methods
 As I am an independent student, all the data here is external. It is all from authoritative sources, some public and some private. Most of it is official government survey data collected and/or calculated annually, with the exception of the Zillow data which is calculated quarterly from their own database. I have chosen these datasets because they contain the most thorough information on housing units and value, population change and density, other characteristics of U.S. neighborhoods and households, and government finances. 
 ### Citations:
-United States Environmental Protection Agency (EPA). (2022). Smart Location Database. Retrieved from: https://edg.epa.gov/EPADataCommons/public/OA/EPA_SmartLocationDatabase_V3_Jan_2021_Final.csv (More info: https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)
-United States Census Bureau. (2010-2021). Annual Building Permits by State by Structure. Retrieved from https://www.census.gov/construction/bps/
-United States Census Bureau. (2010-2020). American Community Survey Data. Retrieved from https://data.census.gov/cedsci/table?q=dp04&g=0100000US%243100000&tid=ACSDP5Y2020.DP04
-United States Census Bureau. (2010-2021). Population Totals and Components of Change. Retrieved from https://www.census.gov/programs-surveys/metro-micro/data/tables.All.List_2143640002.html, https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html#par_textimage
-United States Census Bureau. (2010-2021). Public Sector Annual Surveys. Retrieved from https://data.census.gov/cedsci/table?t=State%20and%20Local%20Government%20Finances&g=0100000US%240400000&tid=GOVSTIMESERIES.GS00SG01
-Federal Housing Finance Agency. (2010-2021). Housing Price Index (HPI) by Metro Area and State. Retrieved from https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index.aspx
-Zillow Housing Data. (2010-2021). Zillow Home Value Index (ZHVI) by Metro Area and State. Retrieved from https://www.zillow.com/research/data/
-United States Census Bureau. (2021). Cartographic Boundary Files. https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
+##### United States Environmental Protection Agency (EPA). (2022). Smart Location Database. Retrieved from: https://edg.epa.gov/EPADataCommons/public/OA/EPA_SmartLocationDatabase_V3_Jan_2021_Final.csv (More info: https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)
+##### United States Census Bureau. (2010-2021). Annual Building Permits by State by Structure. Retrieved from https://www.census.gov/construction/bps/
+##### United States Census Bureau. (2010-2020). American Community Survey Data. Retrieved from https://data.census.gov/cedsci/table?q=dp04&g=0100000US%243100000&tid=ACSDP5Y2020.DP04
+##### United States Census Bureau. (2010-2021). Population Totals and Components of Change. Retrieved from https://www.census.gov/programs-surveys/metro-micro/data/tables.All.List_2143640002.html, https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html#par_textimage
+##### United States Census Bureau. (2010-2021). Public Sector Annual Surveys. Retrieved from https://data.census.gov/cedsci/table?t=State%20and%20Local%20Government%20Finances&g=0100000US%240400000&tid=GOVSTIMESERIES.GS00SG01
+##### Federal Housing Finance Agency. (2010-2021). Housing Price Index (HPI) by Metro Area and State. Retrieved from https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index.aspx
+##### Zillow Housing Data. (2010-2021). Zillow Home Value Index (ZHVI) by Metro Area and State. Retrieved from https://www.zillow.com/research/data/
+##### United States Census Bureau. (2021). Cartographic Boundary Files. https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
 
 ## Contents
 ##### EPA Smart Location Database
