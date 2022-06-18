@@ -1,6 +1,6 @@
 # Lex-Python-StudentProject-Housing
 
-This self-led student project regarding the U.S. housing crisis was conceptualized and completed in June, 2022. To view my full Tableau presentation, click here: https://public.tableau.com/views/StudentProject-Multi-UnitHousingintheU_S_/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+This self-led student project regarding the U.S. housing crisis was conceptualized and completed in June, 2022. To view the full Tableau presentation which includes all relevant final results of the analysis, click here: https://public.tableau.com/views/StudentProject-Multi-UnitHousingintheU_S_/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## The Effects of Multi-Unit Housing on Neighborhoods in the U.S.
 The two datasets for this project detail a wide variety of characteristics for the roughly 940 Metropolitan and Micropolitan Statistical Areas in the U.S., each of the 50 States, the District of Columbia, and Puerto Rico, for all years 2010-2021. For roughly 60 years, the U.S. has largely followed an urban planning model that enormously prioritizes single-family housing and urban sprawl, and that I suspect is bankrupting, isolating, and segregating the communities it is implemented in. The data has been compiled from seven other data sets to interrogate the effects that multi-unit housing has in the areas where it is built in and where it already exists.
