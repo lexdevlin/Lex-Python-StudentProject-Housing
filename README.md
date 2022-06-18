@@ -16,18 +16,20 @@ Zillow Housing Data. (2010-2021). Zillow Home Value Index (ZHVI) by Metro Area a
 United States Census Bureau. (2021). Cartographic Boundary Files. https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
 
 ## Contents
-EPA Smart Location Database
+##### EPA Smart Location Database
 I have chosen to derive 15 variables from this recently compiled data from the Environmental Protection Agency. Notable are employment figures, total acreage per area, housing units and occupied households, households that own cars and how many, population density, employment density, and perhaps most importantly a weighted average for both the national walkability index and access to a transit stop.
 Because this data is not a time series, I include it in a separate table.
-Housing Starts (Building Permits)
+##### Housing Starts (Building Permits)
 Includes the number of housing permits issued per state by the type of housing approved. This data implies what kind of new housing is getting built.
-Housing Units by Type and Value
+##### Housing Units by Type and Value
 Data collected from the American Community Survey lists estimates for the number of housing units by type as well as for the number of homes by their value. Also included are estimates for what rent costs and gross rent as a percentage of household income (GRAPI). 
-Population and Components of Change
+##### Population and Components of Change
 This data details population estimates per area by year as well as its change and causes of change, including natural change (births and deaths) and migrational change (domestic and international migration). 
-State Government Finances
+##### State Government Finances
 Estimates of each state’s total revenue, total tax revenue, and total expenditure.
-FHFA Housing Price Index (HPI)
+##### FHFA Housing Price Index (HPI)
 The Federal Housing Finance Agency compiles an index each year detailing the percentage change among all single-family homes in an area.
-Zillow Housing Value Index (ZHVI) for Single-Family Homes
+##### Zillow Housing Value Index (ZHVI) for Single-Family Homes
 Similarly, Zillow gives its best value estimates for single-family homes in an area. From this data I included the raw value estimates and derived a similar index to the HPI of percentage change.
+##### State and CBSA Shapefiles
+Shapefiles for the 50 U.S. states and ~930 metropolitan and micropolitan areas, later converted to json files through a free online site for use in creating geographic visualizations.
